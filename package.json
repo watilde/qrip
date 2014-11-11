@@ -1,16 +1,27 @@
 {
   "name": "qrip",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "description": "Generating QR Codes in CLI",
+  "main": "lib/qrip",
+  "bin": {
+    "qrip": "qrip.js"
   },
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "png-js": "^0.1.1",
     "qr-image": "^2.0.0",
     "update-notifier": "^0.2.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/watilde/qrip.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/watilde/qrip/issues"
+  },
+  "homepage": "https://github.com/watilde/qrip"
 }
