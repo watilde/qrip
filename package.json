@@ -1,6 +1,6 @@
 {
   "name": "qrip",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Generating QR Codes in CLI",
   "main": "lib/qrip",
   "bin": {
