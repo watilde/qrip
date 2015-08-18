@@ -4,7 +4,7 @@
   "description": "Generating QR Codes in CLI",
   "main": "lib/qrip",
   "bin": {
-    "qrip": "qrip.js"
+    "qrip": "bin/qrip.js"
   },
   "dependencies": {
     "png-js": "^0.1.1",
