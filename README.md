@@ -35,4 +35,4 @@ $ qrip something
 ```
 
 ## Screenshots
-![demo](./Screenshots/demo.png)
+![demo](./screenshots/demo.png)
